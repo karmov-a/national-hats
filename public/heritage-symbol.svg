@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="432" viewBox="0 0 320 432" fill="none">
+  <title>Золотой символ Наследия</title>
+  <defs>
+    <linearGradient id="gold" x1="22" y1="375" x2="284" y2="53" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78037"/>
+      <stop offset=".32" stop-color="#C3A05C"/>
+      <stop offset=".57" stop-color="#E2C98B"/>
+      <stop offset=".78" stop-color="#BD964D"/>
+      <stop offset="1" stop-color="#D7B975"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#gold)">
+    <path fill-rule="evenodd" d="M160 8a152 152 0 1 0 0 304 152 152 0 0 0 0-304Zm0 28a124 124 0 1 1 0 248 124 124 0 0 1 0-248Z"/>
+    <path d="m160 48 14 23v269h134v76h-28v-48H40v48H12v-76h134V71l14-23Z"/>
+  </g>
+</svg>
